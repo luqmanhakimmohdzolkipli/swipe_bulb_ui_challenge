@@ -1,0 +1,20 @@
+[
+  {
+    "title": "KLCC - 3N/2 Days",
+    "name": "Travel Good Agency",
+    "image": "assets/images/holiday/klcc.jpg",
+    "location": "Kuala Lumpur"
+  },
+  {
+    "title": "Bali - 5N/4 Days",
+    "name": "Sukarta Fly Agency",
+    "image": "assets/images/holiday/bali.png",
+    "location": "Indonesia"
+  },
+  {
+    "title": "Fuji - 20N/19 Days",
+    "name": "Sayonara Agency",
+    "image": "assets/images/holiday/snow_mountain.jpg",
+    "location": "Japan"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Holidays",
+    "image": "assets/images/category/holiday.png"
+  },
+  {
+    "title": "Rental",
+    "image": "assets/images/category/rent.png"
+  },
+  {
+    "title": "Travel Partner",
+    "image": "assets/images/category/travel.png"
+  },
+  {
+    "title": "Hotels",
+    "image": "assets/images/category/hotel.png"
+  },
+  {
+    "title": "Transports",
+    "image": "assets/images/category/taxi.png"
+  }
+]
